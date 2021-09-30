@@ -1,2 +1,2 @@
 # blocklists
-These is my custom pi-hole blocklists
+These are my custom pi-hole blocklists
